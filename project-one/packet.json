@@ -1,0 +1,78 @@
+[
+    {
+        "Quote" : "May the Force be with you.",
+        "Movie" : "Star Wars, 1977"
+    }, 
+    {
+        "Quote" : "There's no place like home.",
+        "Movie" : "The Wizard of Oz, 1939"
+    }, 
+    {
+        "Quote" : "I am the king of the world.",
+        "Movie" : "Titanic, 1997"
+    }, 
+    {
+        "Quote" : "Elementary, my dear Watson.",
+        "Movie" : "Sherlock Holmes"
+    }, 
+    {
+        "Quote" : "My precious.",
+        "Movie" : "The Lord of The Rings: Two Towers, 2002"
+    }, 
+    {
+        "Quote" : "Keep your friends close, but your enemies closer.",
+        "Movie" : "The Godfather Part II, 1974"
+    }, 
+    {
+        "Quote" : "You talking to me?",
+        "Movie" : "Taxi Driver, 1976"
+    }, 
+    {
+        "Quote" : "Here's Johnny!",
+        "Movie" : "The Shining, 1980"
+    },
+    {
+        "Quote" : "To infinity and beyond!",
+        "Movie" : "Toy Story, 1995"
+    },
+    {
+        "Quote" : "Hasta la vista, baby",
+        "Movie" : "Terminator 2: Judgment Day, 1991"
+    },
+    {
+        "Quote" : "You're gonna need a bigger boat",
+        "Movie" : "Jaws, 1975"
+    },
+    {
+        "Quote" : "Gentleman, you had my curiosity, but now you have my attention.",
+        "Movie" : "Django Unchained"
+    },
+    {
+        "Quote" : "There is a point at 7000 RPM...",
+        "Movie" : "Ford vs Ferrari"
+    },
+    {
+        "Quote" : "What's in the box?",
+        "Movie" : "Se7en"
+    },
+    {
+        "Quote" : "I'm sorry Dave, I'm afraid I can't do that",
+        "Movie" : "2001: A Space Odyssey"
+    },
+    {
+        "Quote" : "With great power comes great responsibility",
+        "Movie" : "Spider Man"
+    },
+    {
+        "Quote" : "I think this just might be my masterpiece",
+        "Movie" : "Inglorious Basterds"
+    },
+    {
+        "Quote" : "Hey Paul!",
+        "Movie" : "American Psycho"
+    },
+    {
+        "Quote" : "Gentleman, welcome to fight club",
+        "Movie" : "Fight Club"
+    }
+]

@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Courier Prime', monospace;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url(../images/movies.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header {
+    font-size: 1.3rem;
+    background-color: #ffffff;
+    color: #262626;
+    border: 2px solid #262626;
+    width: 80%;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.container main {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px;
+}
+
+.container main p {
+    line-height: 1.5;
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+}
+
+.container main h2 {
+    font-size: 1.3rem;
+    color: rgba(25, 0, 255, 0.712);
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+.container main button {
+    background-color: #262626;
+    color: #ffffff;
+    font-size: 1.3rem;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: .5rem 1rem;
+    cursor: pointer;
+}
+
+.container main button:active {
+    background-color: lightblue;
+}
+
